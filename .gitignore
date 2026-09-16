@@ -1,0 +1,12 @@
+.qwen-*
+*.qwen-backup
+*.qwen-new
+*.qwen-prompt
+*.qwen-response
+qwen-test.txt
+node_modules/
+.env
+.env.*
+dist/
+build/
+.cache/
