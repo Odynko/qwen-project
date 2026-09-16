@@ -2,4 +2,4 @@
 
 $name = "hh";
 
-echo "Ahoj " . $name;
+echo "Ahojky " . $name;
